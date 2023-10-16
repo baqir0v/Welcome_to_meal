@@ -1,4 +1,36 @@
 # Welcome_to_meal
+
+
+// function salamla(name = "Ey Igid") {
+//     console.log("Salam" + name);
+// }
+// salamla("Tagi")
+
+//  function sum(a,b) {
+//     return a+b
+// } 
+
+// const sum = (a,b) =>a + b
+
+// function salamlar(name) {
+//     console.log(name);
+// } 
+
+
+
+// function salamlar(name = "Ahmed" , soyad = "Baghirov") {
+//     return "Salam " + name + " " + soyad
+// }
+// console.log(salamlar());
+
+// const salamlar = function(name = "Ahmed" , soyad = "Baghirov") {
+//     return "Salam " + name + " " + soyad
+// }
+// console.log(salamlar());
+
+// const salamlar = (name = "Ahmed" , soyad = "Baghirov") => {return "Salam " + name + " " + soyad}
+// console.log(salamlar());
+
 // function Toplama(a,b) {
 //     return a+b
 // }
